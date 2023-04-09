@@ -13,3 +13,5 @@ HOW TO USE:
 
 For feedback/complaints, comment on the YouTube video.
 (If any error occurs, stop the typing by pressing STOP in the app, or force close the app.)
+
+![image](https://user-images.githubusercontent.com/104615340/230770057-f2cb86fc-ca83-434f-87c2-93e244e0438f.png)
