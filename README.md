@@ -1,5 +1,5 @@
 # Py-AutoTyper
-An Auto-Typer(made with py) which types the desired string the amount of times, and delay that has been specified!
+A very simple and easy to use Auto-Typer(made with py) which types the desired string the amount of times, and delay that has been specified!
 
 Watch this YouTube video for how to use: https://youtu.be/cPHJJQYRsH4
 (Subscribe to support me!)
